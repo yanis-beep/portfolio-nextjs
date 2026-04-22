@@ -41,20 +41,20 @@ npm run dev
 
 ### Page de connexion
 
-![Login](./screenshots/login.png)
+![Login](./public/login.png)
 
 ###  Page d'inscription
 
-![Inscription](./screenshots/inscription.png)
+![Inscription](./public/inscription.png)
 
 ###  Page des projets
 
-![Projects](./screenshots/projects.png)
+![Projects](./public/projects.png)
 
 
 ### Témoignages
 
-![Temoignages](./screenshots/temoignages.png)
+![Temoignages](./public/temoignages.png)
 
 ##  Améliorations possibles
 
